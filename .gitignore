@@ -1,0 +1,12 @@
+# iPython checkpoints
+.ipynb_checkpoints
+
+
+
+# Data files
+
+data/
+
+# Book
+
+Reinforcement_Learning__Sutton_Barton__bookdraft2018
